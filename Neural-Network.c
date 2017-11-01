@@ -1,3 +1,15 @@
+/**
+ * @file main.c
+ * @mainpage Neural Network in C.
+ * It's apart of Neural-Network-in-Embedded-Systems Project (it's also in github :) ).
+ * @brief Implementation of feed forward Neural Network algorithm in C using pima-indians-diabetes dataset.
+ * @author Waleed Ahmed Daud.
+ * @Website waleed-daud.github.io
+ * @Linkedin https://linkedin/in/waleed-daud-78472b9b
+ * @Email waleed.daud@outlook.com
+ * @date OCT 22
+ */
+
 #include <stdio.h>
 #include <time.h>
 
