@@ -1,5 +1,5 @@
 /**
- * @file main.c
+ * @file Neural-Network.c
  * @mainpage Neural Network in C.
  * It's apart of Neural-Network-in-Embedded-Systems Project (it's also in github :) ).
  * @brief Implementation of feed forward Neural Network algorithm in C using pima-indians-diabetes dataset.
