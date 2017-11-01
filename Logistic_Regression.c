@@ -1,3 +1,15 @@
+ /**
+ * @file main.c
+ * @mainpage Logistic Regression in C.
+ * It's apart of Neural-Network-in-Embedded-Systems Project (it's also in github :) ).
+ * @brief Implementation of logistic Regression algorithm in C using pima-indians-diabetes dataset.
+ * @author Waleed Ahmed Daud.
+ * @Website waleed-daud.github.io
+ * @Linkedin https://linkedin/in/waleed-daud-78472b9b
+ * @Email waleed.daud@outlook.com
+ * @date OCT 21
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
