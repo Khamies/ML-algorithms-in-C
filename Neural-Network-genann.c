@@ -1,8 +1,8 @@
 /**
  * @file Neural-Network.c
- * @mainpage Neural Network in C.
+ * @mainpage Implementation of Neural Network using Genann Library.
  * It's apart of Neural-Network-in-Embedded-Systems Project (it's also in github :) ).
- * @brief Implementation of feed forward Neural Network algorithm in C using pima-indians-diabetes dataset.
+ * @brief Implementation of feed forward Neural Network algorithm using Genann Library and pima-indians-diabetes dataset.
  * @author Waleed Ahmed Daud.
  * @Website waleed-daud.github.io
  * @Linkedin https://linkedin/in/waleed-daud-78472b9b
